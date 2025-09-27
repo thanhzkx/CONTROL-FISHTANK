@@ -23,7 +23,7 @@ The system continuously measures environmental parameters and controls external 
 ---
 
 ## 📐 Schematic
-![Schematic](sche-fish.jpg)
+![Schematic](Sche-fish.jpg)
 
 ---
 
@@ -70,3 +70,4 @@ The system continuously measures environmental parameters and controls external 
 
 ## 📫 Contact
 ✉️ Email: **nguyenminhthanh.offfice@gmail.com**
+
