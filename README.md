@@ -69,5 +69,6 @@ The system continuously measures environmental parameters and controls external 
 ---
 
 ## 📫 Contact
-✉️ Email: **nguyenminhthanh.offfice@gmail.com**
+✉️ Email: **nguyenminhthanh.office@gmail.com**
+
 
